@@ -1,3 +1,17 @@
+This project — Simple BreadBoard Power Supply — was supported by PCBWay through their PCB prototyping sponsorship program.
+
+PCBWay provided high-quality manufactured boards that arrived perfectly aligned and finished. The fabrication quality was excellent, with sharp silkscreen printing, clean solder masks, and precise drill accuracy. Assembly and testing went smoothly, and the boards performed exactly as designed.
+
+A huge thanks to PCBWay for their support in helping bring this project to life. Their fast turnaround and reliable service made the prototyping process straightforward and efficient.
+
+Below you will find the printed out board; the missing components will be added and uploaded soon. Thank you!
+
+<img width="2488" height="1541" alt="image" src="https://github.com/user-attachments/assets/0e911388-f74a-41ed-9a9f-6eca2e48e99d" />
+
+<img width="2707" height="1698" alt="image" src="https://github.com/user-attachments/assets/39ff4577-a7dd-4f63-a942-ee7b3991fd3a" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3D Layout (Final Diagram)
 
 <img width="1346" height="1247" alt="image" src="https://github.com/user-attachments/assets/389aecb6-4a7a-4ca0-bece-7ba06f65eb96" />
